@@ -1,10 +1,7 @@
 ## Project: Switch Theme
 
-## Visulation of the App with Light Mode
 
-![image](./light.png)
-
-## Visulation of the App with Dark Mode
+## Visulation of the App 
 
 ![image](./dark.png)
 
