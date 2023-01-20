@@ -18,7 +18,11 @@ I mastered HTML, CSS, JavaScript, React features in this project. You can see th
 
 ## Technologies 💻
 ```bash
-- React(createContext,useContext, useState, useEffect)
+- React
+- createContext,
+- useContext,
+- useState,
+- useEffect
 - JavaScript
 - HTML/CSS
 ```
