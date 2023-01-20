@@ -1,3 +1,29 @@
+## Project: Switch Theme
+
+## Visulation of the App with Light Mode
+
+![image](./light.png)
+
+## Visulation of the App with Dark Mode
+
+![image](./dark.png)
+
+## Description
+```bash
+- Project provides to switch theme with toogle button
+```
+
+## Overview
+I mastered HTML, CSS, JavaScript, React features in this project. You can see the visual representation of the app above.
+
+## Technologies 💻
+```bash
+- React(createContext,useContext, useState, useEffect)
+- JavaScript
+- HTML/CSS
+```
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
